@@ -1,4 +1,35 @@
-/* Untuk tablet atau yg lebih besar */
+
+.footer {
+    margin-top: 50px;
+    width: 100%;
+    background-color: rgb(72, 74, 77);
+}
+
+.isi {
+    color: white;
+    display: flex;
+    padding: 30px 100px;
+    justify-content: space-around;
+}
+
+.lokasi {
+  width: 250px; 
+}
+
+.medsos {
+  width: 250px;
+}
+
+.medsos a {
+    text-decoration: none;   
+}
+
+.cpyright {
+  width: 300px; 
+    }
+
+
+/* Untuk tablet */
 @media all and (max-width: 1000px) {
 
 .footer {

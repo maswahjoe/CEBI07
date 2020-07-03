@@ -8,22 +8,28 @@
 .isi {
     color: white;
     display: flex;
-    padding: 30px 100px;
+    padding: 30px 40px;
     justify-content: space-around;
 }
 
 .lokasi {
-  width: 250px; 
+  width: 33%; 
 }
 
 .medsos {
-  width: 250px;
+  width: 33%;
 }
 
 .medsos a {
-    text-decoration: none;   
+    text-decoration: none;
+
+}
+.btn-social{
+   padding: 5px;   
+   color: white;
+   font-size: 26px;
 }
 
 .cpyright {
-  width: 300px; 
+  width: 33%; 
     }

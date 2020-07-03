@@ -6,4 +6,32 @@
 /* Untuk Smartphones */
 @media (max-width: 670px) {
 
+isi {
+    color: white;
+    display: flex;
+    padding: 30px 40px;
+    justify-content: space-around;
+}
+
+.lokasi {
+  width: 60%; 
+}
+
+.medsos {
+  width: 40%;
+}
+
+.medsos a {
+    text-decoration: none;
+
+}
+.btn-social{
+   padding: 5px;   
+   color: white;
+   font-size: 26px;
+}
+
+.cpyright {
+  display: none;
+    }
 }

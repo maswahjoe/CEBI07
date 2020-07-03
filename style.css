@@ -1,3 +1,6 @@
+/* Untuk tablet atau yg lebih besar */
+@media all and (max-width: 1000px) {
+
 .footer {
     margin-top: 50px;
     width: 100%;
@@ -25,4 +28,12 @@
 
 .cpyright {
   width: 300px; 
+    }
+
+
+}
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+
+
 }
